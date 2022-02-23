@@ -3,6 +3,5 @@ channels:
   - conda-forge
   - pypi
 dependencies:
-  - python==3.7
   - matplotlib
-  - opencv-python==4.5.3
+  - opencv==3.1
