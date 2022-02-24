@@ -1,8 +1,0 @@
-name: python3
-channels:
-  - conda-forge
-  - pypi
-dependencies:
-  - python
-  - matplotlib
-  - opencv
